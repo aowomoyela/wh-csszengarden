@@ -117,6 +117,8 @@
 				<nav role="navigation">
 					<ul>
 					
+					<!--TODO: Make this section pull from style_manager.php -->
+					
 					<li>
 						<a href="?style=tranquille" class="design-name">tranquille (default)</a> 
 						by	<a href="http://www.mezzoblue.com/" class="designer-name">Dave Shea</a>
